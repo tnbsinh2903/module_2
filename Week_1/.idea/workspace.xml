@@ -31,7 +31,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ktra_soNguyen">
+  <component name="RunManager" selected="Application.App_billing_interest">
+    <configuration name="App_billing_interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.App_billing_interest" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoopInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bt_acu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.Bt_acu" />
       <module name="Week_1" />
@@ -71,13 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nháp.Even_old" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nháp.Even_old" />
-      <module name="Week_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="vidu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nháp.vidu" />
       <module name="Week_1" />
@@ -93,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App_billing_interest" />
         <item itemvalue="Application.Ktra_soNguyen" />
         <item itemvalue="Application.vidu" />
         <item itemvalue="Application.Bt_acu" />
         <item itemvalue="Application.System_time_display" />
-        <item itemvalue="Application.nháp.Even_old" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +124,7 @@
       <workItem from="1652280801367" duration="2276000" />
       <workItem from="1652308603706" duration="2310000" />
       <workItem from="1652317123475" duration="7823000" />
-      <workItem from="1652337015925" duration="1214000" />
+      <workItem from="1652337015925" duration="5325000" />
     </task>
     <servers />
   </component>
