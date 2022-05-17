@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Find_index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/FindMax_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/FindMax_array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Doc_so.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Doc_so.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/Doc_so.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduction_To_Java/Doc_so.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
