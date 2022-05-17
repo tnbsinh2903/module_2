@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Add_number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Delete_number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Gop_array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Inverse_array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Btap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Doc_so.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/Uoc_chung_max.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/nháp/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/nháp/Bt_acu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Week_1/nháp/MethodJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Add_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Delete_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Gop_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Inverse_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_To_Java/Btap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Introduction_To_Java/Doc_so.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopInJava/Uoc_chung_max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nháp/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nháp/Bt_acu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nháp/MethodJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FindMax_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Bt_acu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/Even_old.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/Total.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/vidu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/Bt_acu.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Gop_array">
+  <component name="RunManager" selected="Application.FindMax_array">
     <configuration name="Array.Add_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Add_number" />
       <module name="Week_1" />
@@ -102,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array.Inverse_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Inverse_array" />
+    <configuration name="Doc_so" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.Doc_so" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Introduction_To_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Doc_so" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.Doc_so" />
+    <configuration name="FindMax_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FindMax_array" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction_To_Java.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMax_array" />
         <item itemvalue="Application.Gop_array" />
         <item itemvalue="Application.Doc_so" />
         <item itemvalue="Application.Array.Add_number" />
         <item itemvalue="Application.Array.Delete_number" />
-        <item itemvalue="Application.Array.Inverse_array" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +151,7 @@
       <workItem from="1652663722127" duration="4916000" />
       <workItem from="1652681944934" duration="11998000" />
       <workItem from="1652713887414" duration="2010000" />
-      <workItem from="1652749867758" duration="6084000" />
+      <workItem from="1652749867758" duration="10521000" />
     </task>
     <servers />
   </component>
