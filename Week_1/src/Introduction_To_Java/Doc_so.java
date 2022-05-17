@@ -5,57 +5,59 @@ import java.util.Scanner;
 public class Doc_so {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter a number: ");
-            int number = scanner.nextInt();
-            int first = number / 100;
-            int second = (number % 100) / 10;
-            int third = number % 10;
-            String result = null;
-            if (number < 10) {
-                result = One2Nice(third);
+        System.out.println("Enter a number: ");
+        int number = scanner.nextInt();
+        int first = number / 100;
+        int second = (number % 100) / 10;
+        int third = number % 10;
+        String result = null;
+        if (number < 10) {
+            result = One2Nice(third);
+            System.out.println(result);
+            return;
+        }
+        if ( number < 20) { //number >= 10
+            result = Ten2Nineteen(second);
+            System.out.println(result);
+            return;
+        }
+        if (number < 100) {  //number > 19 &&
+            if (third != 0) {
+                result = Twenty2_100(second) + " " + One2Nice(third);
                 System.out.println(result);
-                return;
-            }
-            if (number >= 10 && number < 20) {
-                result = Ten2Nineteen(second);
+            } else {
+                result = Twenty2_100(second);
                 System.out.println(result);
-                return;
             }
-            if (number > 19 && number <= 100) {
-                if (third != 0) {
-                    result = Twenty2_100(second) + " " + One2Nice(third);
-                    System.out.println(result);
-                } else {
-                    result = Twenty2_100(second);
+            return;
+        }
+        if ( number < 1000) {   //number > 99
+            if (third == 0) {
+                if (second == 0) {
+                    result = OneHundred_1000(first);
                     System.out.println(result);
                 }
-                return;
-            }
-            if (number >= 100 && number < 1000) {
-                if (third == 0) {
-                    if (second == 0) {
-                        result = OneHundred_1000(first);
-                        System.out.println(result);
-                    }
-                    if (second < 2 && second > 0) {
-                        result = OneHundred_1000(first) + "  " + Ten2Nineteen(third);
-                        System.out.println(result);
-                    } else if (second >= 2) {
-                        result = OneHundred_1000(first) + " " + Twenty2_100(second);
-                        System.out.println(result);
-                    }
-                } else if (second == 0) {
-                    result = OneHundred_1000(first) + "  " + One2Nice(third);
+                if (second < 2 && second > 0) {
+                    result = OneHundred_1000(first) + " " + Ten2Nineteen(third);
                     System.out.println(result);
+                } else{  //if (second >= 2)
+                    result = OneHundred_1000(first) + " " + Twenty2_100(second);
+                    System.out.println(result);
+                }
+            } else if (second == 0) {
+                result = OneHundred_1000(first) + " " + One2Nice(third);
+                System.out.println(result);
 
-                } else if (second < 2) {
-                    result = OneHundred_1000(first) + "  " + Ten2Nineteen(third);
-                    System.out.println(result);
-                } else {
-                    result = OneHundred_1000(first) + "  " + Twenty2_100(second) + "  " + One2Nice(third);
-                    System.out.println(result);
-                }
+            } else if (second < 2) {
+                result = OneHundred_1000(first) + " " + Ten2Nineteen(third);
+                System.out.println(result);
+            } else {
+                result = OneHundred_1000(first) + "  " + Twenty2_100(second) + "  " + One2Nice(third);
+                System.out.println(result);
             }
+
+        }
+
     }
 
 //    public static String Twenty2_100(int number) {
