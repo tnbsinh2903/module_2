@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Introduction_To_Java/DayInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction_To_Java/CheckLeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DayInMonth">
+  <component name="RunManager" selected="Application.CheckLeapYear">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nháp.BubbleSort" />
       <module name="Week_1" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.DayInMonth" />
+    <configuration name="CheckLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.CheckLeapYear" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Display_less100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopInJava.Display_less100" />
+    <configuration name="DayInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.DayInMonth" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoopInJava.*" />
+          <option name="PATTERN" value="Introduction_To_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckLeapYear" />
         <item itemvalue="Application.DayInMonth" />
         <item itemvalue="Application.FirstDegreeEquation" />
         <item itemvalue="Application.MethodJava" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Display_less100" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,7 @@
       <workItem from="1652772962703" duration="8235000" />
       <workItem from="1652799705677" duration="2425000" />
       <workItem from="1652837964806" duration="12108000" />
-      <workItem from="1652861996197" duration="4707000" />
+      <workItem from="1652861996197" duration="6066000" />
     </task>
     <servers />
   </component>
