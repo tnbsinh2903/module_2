@@ -7,7 +7,7 @@ public class Display_less100 {
         Scanner scanner = new Scanner(System.in);
         for (int i = 0; i < 100; i++) {
             if (isPreme(i))
-                System.out.println(i);
+                System.out.println("các số nguyên tố bé hơn 100 là : " + i);
         }
     }
 

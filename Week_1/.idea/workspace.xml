@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LoopInJava/DisplayTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopInJava/Display_less100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopInJava/MenuApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/Display_less100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopInJava/Display_less100.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +154,7 @@
       <workItem from="1652772962703" duration="8235000" />
       <workItem from="1652799705677" duration="2425000" />
       <workItem from="1652837964806" duration="12108000" />
-      <workItem from="1652861996197" duration="1079000" />
+      <workItem from="1652861996197" duration="1522000" />
     </task>
     <servers />
   </component>
