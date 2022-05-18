@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/FindMinMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopInJava/DisplayTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopInJava/Display_less100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopInJava/MenuApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMinMethod">
-    <configuration name="Array.Count_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Count_char" />
+  <component name="RunManager" selected="Application.Display_less100">
+    <configuration name="DisplayTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.DisplayTypes" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LoopInJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,25 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.ConvertTemperature" />
+    <configuration name="Display_less100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.Display_less100" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Count_quantity_student_pass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Count_quantity_student_pass" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LoopInJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoopInJava.MenuApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.MenuApp" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoopInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Display_less100" />
+        <item itemvalue="Application.DisplayTypes" />
+        <item itemvalue="Application.LoopInJava.MenuApp" />
         <item itemvalue="Application.FindMinMethod" />
-        <item itemvalue="Application.Array.ConvertTemperature" />
-        <item itemvalue="Application.Array.FindMaxArray" />
-        <item itemvalue="Application.Array.Count_quantity_student_pass" />
-        <item itemvalue="Application.Array.Count_char" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,8 @@
       <workItem from="1652769102938" duration="2217000" />
       <workItem from="1652772962703" duration="8235000" />
       <workItem from="1652799705677" duration="2425000" />
-      <workItem from="1652837964806" duration="8692000" />
+      <workItem from="1652837964806" duration="12108000" />
+      <workItem from="1652861996197" duration="1079000" />
     </task>
     <servers />
   </component>
