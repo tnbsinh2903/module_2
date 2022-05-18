@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/FindMaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ConvertTemperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/FindMax_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/FindMaxArrayTwo_way.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMaxArray">
+  <component name="RunManager" selected="Application.ConvertTemperature">
     <configuration name="Array.Count_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Count_char" />
       <module name="Week_1" />
@@ -66,6 +65,19 @@
     </configuration>
     <configuration name="Array.Diagonal_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Diagonal_main" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ConvertTemperature" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
@@ -103,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="So_nt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopInJava.So_nt" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LoopInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertTemperature" />
         <item itemvalue="Application.FindMaxArray" />
         <item itemvalue="Application.Array.Count_quantity_student_pass" />
         <item itemvalue="Application.Array.Count_char" />
         <item itemvalue="Application.Array.Diagonal_main" />
-        <item itemvalue="Application.So_nt" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +155,7 @@
       <workItem from="1652769102938" duration="2217000" />
       <workItem from="1652772962703" duration="8235000" />
       <workItem from="1652799705677" duration="2425000" />
-      <workItem from="1652837964806" duration="6120000" />
+      <workItem from="1652837964806" duration="7550000" />
     </task>
     <servers />
   </component>
