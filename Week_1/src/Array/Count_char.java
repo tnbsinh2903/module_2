@@ -17,7 +17,7 @@ public class Count_char {
             if(str.charAt(i)==ch.charAt(0))
                 count ++;
         }
-        System.out.println(count);
+        System.out.println("position of char on string is: " + count);
 
     }
 }

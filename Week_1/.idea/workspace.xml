@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Count_char.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nháp/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Count_quantity_student_pass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Count_char.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Count_char.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Count_char.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Count_char.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +51,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Count_char">
-    <configuration name="Count_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Count_quantity_student_pass">
+    <configuration name="Array.Count_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Count_char" />
       <module name="Week_1" />
       <extension name="coverage">
@@ -64,7 +65,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Diagonal_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Array.Diagonal_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Diagonal_main" />
       <module name="Week_1" />
       <extension name="coverage">
@@ -77,8 +78,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Find_index" />
+    <configuration name="Array.Total_column" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Total_column" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_quantity_student_pass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Count_quantity_student_pass" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
@@ -103,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Total_column" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Total_column" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Count_char" />
-        <item itemvalue="Application.Diagonal_main" />
+        <item itemvalue="Application.Count_quantity_student_pass" />
+        <item itemvalue="Application.Array.Count_char" />
+        <item itemvalue="Application.Array.Diagonal_main" />
         <item itemvalue="Application.So_nt" />
-        <item itemvalue="Application.Total_column" />
-        <item itemvalue="Application.Find_index" />
+        <item itemvalue="Application.Array.Total_column" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,7 @@
       <workItem from="1652769102938" duration="2217000" />
       <workItem from="1652772962703" duration="8235000" />
       <workItem from="1652799705677" duration="2425000" />
-      <workItem from="1652837964806" duration="1232000" />
+      <workItem from="1652837964806" duration="3868000" />
     </task>
     <servers />
   </component>
