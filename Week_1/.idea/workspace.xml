@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/Diagonal_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopInJava/So_nt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Count_char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nháp/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +50,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Diagonal_main">
-    <configuration name="Diagonal_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Diagonal_main" />
+  <component name="RunManager" selected="Application.Count_char">
+    <configuration name="Count_char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Count_char" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Doc_so" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.Doc_so" />
+    <configuration name="Diagonal_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Diagonal_main" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction_To_Java.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_char" />
         <item itemvalue="Application.Diagonal_main" />
         <item itemvalue="Application.So_nt" />
         <item itemvalue="Application.Total_column" />
         <item itemvalue="Application.Find_index" />
-        <item itemvalue="Application.Doc_so" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,9 @@
       <workItem from="1652713887414" duration="2010000" />
       <workItem from="1652749867758" duration="13496000" />
       <workItem from="1652769102938" duration="2217000" />
-      <workItem from="1652772962703" duration="7806000" />
+      <workItem from="1652772962703" duration="8235000" />
+      <workItem from="1652799705677" duration="2425000" />
+      <workItem from="1652837964806" duration="1232000" />
     </task>
     <servers />
   </component>
