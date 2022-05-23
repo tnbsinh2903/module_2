@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Introduction_To_Java/AppConvertMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BinarySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BoiChungNhoThat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opp/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opp/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/MethodJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/nháp/MethodJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/Uoc_chung_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopInJava/Uoc_chung_max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nháp/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nháp/MethodJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nháp/MethodJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +60,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AppConvertMoney">
-    <configuration name="AppConvertMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.AppConvertMoney" />
+  <component name="RunManager" selected="Application.Rectangle">
+    <configuration name="BinarySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NhiemVuDuocGiao.BinarySort" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction_To_Java.*" />
+          <option name="PATTERN" value="NhiemVuDuocGiao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.CheckBMI" />
+    <configuration name="Opp.test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opp.test3" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction_To_Java.*" />
+          <option name="PATTERN" value="Opp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.CheckLeapYear" />
+    <configuration name="Opp.tetst1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opp.tetst1" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction_To_Java.*" />
+          <option name="PATTERN" value="Opp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DayInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.DayInMonth" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opp.Person" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction_To_Java.*" />
+          <option name="PATTERN" value="Opp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayGreeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduction_To_Java.DisplayGreeting" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opp.Rectangle" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduction_To_Java.*" />
+          <option name="PATTERN" value="Opp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppConvertMoney" />
-        <item itemvalue="Application.DisplayGreeting" />
-        <item itemvalue="Application.CheckBMI" />
-        <item itemvalue="Application.CheckLeapYear" />
-        <item itemvalue="Application.DayInMonth" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Opp.test3" />
+        <item itemvalue="Application.Opp.tetst1" />
+        <item itemvalue="Application.BinarySort" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +167,20 @@
       <workItem from="1652772962703" duration="8235000" />
       <workItem from="1652799705677" duration="2425000" />
       <workItem from="1652837964806" duration="12108000" />
-      <workItem from="1652861996197" duration="7779000" />
+      <workItem from="1652861996197" duration="8501000" />
+      <workItem from="1652887326593" duration="2282000" />
+      <workItem from="1652922303084" duration="10981000" />
+      <workItem from="1652938852084" duration="9809000" />
+      <workItem from="1652955027135" duration="383000" />
+      <workItem from="1652955449552" duration="169000" />
+      <workItem from="1652955674287" duration="323000" />
+      <workItem from="1652976972481" duration="291000" />
+      <workItem from="1653008951842" duration="145000" />
+      <workItem from="1653009131199" duration="9778000" />
+      <workItem from="1653025415035" duration="8294000" />
+      <workItem from="1653230576591" duration="6883000" />
+      <workItem from="1653267953317" duration="8105000" />
+      <workItem from="1653287679574" duration="2663000" />
     </task>
     <servers />
   </component>
