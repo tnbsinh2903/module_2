@@ -2,19 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BinarySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BoiChungNhoThat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NhiemVuDuocGiao/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Opp/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Opp/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessModifier/PrimitiveDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessModifier/ReferenceDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/accessModifier/StaticKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/geometric/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/geometric/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/geometric/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/geometric/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/sayhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/opp/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studen/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nháp/MethodJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/nháp/MethodJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopInJava/Uoc_chung_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopInJava/Uoc_chung_max.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nháp/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nháp/MethodJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nháp/MethodJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Add_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Add_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/ConvertTemperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/ConvertTemperature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Count_char.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Count_char.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Count_quantity_student_pass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Count_quantity_student_pass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Delete_number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Delete_number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Diagonal_main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Diagonal_main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/FindMaxArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/FindMaxArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/FindMaxArrayTwo_way.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/FindMaxArrayTwo_way.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/FindMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/FindMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/FindMinMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/FindMinMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Find_index.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Find_index.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Gop_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Gop_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Inverse_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Inverse_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Array/Total_column.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Array/Total_column.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/AppConvertMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/AppConvertMoney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Btap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Btap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/CheckBMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/CheckBMI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/CheckLeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/CheckLeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/DayInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/DayInMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/DisplayGreeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/DisplayGreeting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Doc_so.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/Doc_so.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/FirstDegreeEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/FirstDegreeEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/System_time_display.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Introduction_To_Java/System_time_display.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/App_billing_interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/App_billing_interest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/DisplayTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/DisplayTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/Display_less100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/Display_less100.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/Ktra_soNguyen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/Ktra_soNguyen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/MenuApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/MenuApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/So_nt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/So_nt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/Uoc_chung_max.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/LoopInJava/Uoc_chung_max.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/BinarySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/BinarySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/BoiChungNhoThat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/BoiChungNhoThat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/NhiemVuDuocGiao/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Opp/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Opp/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/Opp/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/Opp/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Add_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Add_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ConvertTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ConvertTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Count_char.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Count_char.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Count_quantity_student_pass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Count_quantity_student_pass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Delete_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Delete_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Diagonal_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Diagonal_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/FindMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindMaxArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/FindMaxArrayTwo_way.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindMaxArrayTwo_way.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/FindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/FindMinMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindMinMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Find_index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Find_index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Gop_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Gop_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Inverse_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Inverse_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Total_column.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Total_column.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/AppConvertMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/AppConvertMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/Btap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/Btap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/CheckBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/CheckBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/CheckLeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/CheckLeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/DayInMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/DayInMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/DisplayGreeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/DisplayGreeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/Doc_so.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/Doc_so.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/FirstDegreeEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/FirstDegreeEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Introduction_To_Java/System_time_display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction_To_Java/System_time_display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/App_billing_interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopInJava/App_billing_interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/DisplayTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopInJava/DisplayTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/Display_less100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopInJava/Display_less100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/Ktra_soNguyen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopInJava/Ktra_soNguyen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/MenuApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopInJava/MenuApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/So_nt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopInJava/So_nt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/Uoc_chung_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopInJava/Uoc_chung_max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BinarySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/BinarySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BoiChungNhoThat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/BoiChungNhoThat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhiemVuDuocGiao/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhiemVuDuocGiao/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NhiemVuDuocGiao/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Opp/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opp/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Opp/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/opp/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +134,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rectangle">
-    <configuration name="BinarySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NhiemVuDuocGiao.BinarySort" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.geometric.Circle" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NhiemVuDuocGiao.*" />
+          <option name="PATTERN" value="inheritance.geometric.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,38 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Opp.test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Opp.test3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.geometric.Main" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Opp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Opp.tetst1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Opp.tetst1" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Opp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Opp.Person" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Opp.*" />
+          <option name="PATTERN" value="inheritance.geometric.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +162,37 @@
       </method>
     </configuration>
     <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Opp.Rectangle" />
+      <option name="MAIN_CLASS_NAME" value="inheritance.geometric.Rectangle" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Opp.*" />
+          <option name="PATTERN" value="inheritance.geometric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.geometric.Shape" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.geometric.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.geometric.Square" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inheritance.geometric.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Square" />
         <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.Opp.test3" />
-        <item itemvalue="Application.Opp.tetst1" />
-        <item itemvalue="Application.BinarySort" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Shape" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +254,15 @@
       <workItem from="1653025415035" duration="8294000" />
       <workItem from="1653230576591" duration="6883000" />
       <workItem from="1653267953317" duration="8105000" />
-      <workItem from="1653287679574" duration="2663000" />
+      <workItem from="1653287679574" duration="11957000" />
+      <workItem from="1653316274303" duration="592000" />
+      <workItem from="1653357246752" duration="4511000" />
+      <workItem from="1653375325031" duration="1335000" />
+      <workItem from="1653399055024" duration="2446000" />
+      <workItem from="1653433790279" duration="3180000" />
+      <workItem from="1653440834547" duration="8039000" />
+      <workItem from="1653486627747" duration="5159000" />
+      <workItem from="1653527674507" duration="2990000" />
     </task>
     <servers />
   </component>
