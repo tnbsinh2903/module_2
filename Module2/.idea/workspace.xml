@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_1/accessModefier/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_1/accessModefier/staticMothed/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_1/accessModefier/staticMothed/TestStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_1/array/AddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_2/inheritance/pointAndMoveablePoint/MovePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_2/inheritance/pointAndMoveablePoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_2/inheritance/sayhi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_1/accessModefier/staticProperty/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week_1/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week_1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week_1/.idea/modules.xml" beforeDir="false" />
@@ -181,7 +174,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestStaticMethod">
+  <component name="RunManager" selected="Application.Car">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_1.accessModefier.staticProperty.Car" />
+      <module name="Week_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_1.accessModefier.staticProperty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_2.inheritance.circleAndCylinder.Cylinder" />
       <module name="Week_1" />
@@ -221,19 +227,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_1.inheritance.geometric.Rectangle" />
-      <module name="Week_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week_1.inheritance.geometric.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_1.accessModefier.staticMothed.TestStaticMethod" />
       <module name="Week_1" />
@@ -249,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Car" />
         <item itemvalue="Application.TestStaticMethod" />
         <item itemvalue="Application.MovePoint" />
         <item itemvalue="Application.Point" />
         <item itemvalue="Application.Cylinder" />
-        <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +309,7 @@
       <workItem from="1653539715832" duration="347000" />
       <workItem from="1653540070756" duration="983000" />
       <workItem from="1653548225869" duration="167000" />
-      <workItem from="1653548514493" duration="3890000" />
+      <workItem from="1653548514493" duration="8535000" />
     </task>
     <servers />
   </component>
