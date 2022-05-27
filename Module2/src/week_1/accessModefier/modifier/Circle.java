@@ -16,4 +16,12 @@ public class Circle {
         return radius * radius * Math.PI;
     }
 
+    @Override
+    public String toString() {
+        return "Circle{" +
+                "radius=" + radius +
+                ", color='" + color + '\'' +
+                ", area = " + getArea() +
+                '}';
+    }
 }
