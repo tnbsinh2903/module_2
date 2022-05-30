@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="848d438a-8827-4ea2-ad82-df1d1dc18b04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week_1/accessModefier/Chunhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week_1/opp/fan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/abstractt/Geometric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/abstractt/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nhiemVuDuocGiao/mune/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/AbstractAndInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week_2/abstractAndInterface/animalAndInterface/Tiger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/week_1/accessModefier/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/week_1/accessModefier/student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/week_1/accessModefier/student/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_1/week_1/accessModefier/student/TestStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_1/week_1/accessModefier/student/TestStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_1/accessModefier/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_1/accessModefier/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_1/accessModefier/student/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_1/accessModefier/student/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_1/accessModefier/student/TestStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_1/opp/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_1/opp/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_1/nhiemVuDuocGiao/menu/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nhiemVuDuocGiao/menu/Menu.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week_1/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week_1/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week_1/.idea/modules.xml" beforeDir="false" />
@@ -143,9 +148,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -183,13 +192,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StopWatch">
-    <configuration name="Chunhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_1.accessModefier.Chunhat" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="week_2.abstractAndInterface.animalAndInterface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.week_2.abstractAndInterface.animalAndInterface.AbstractAndInterfaceTest">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nhiemVuDuocGiao.abstractt.Test" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_1.accessModefier.*" />
+          <option name="PATTERN" value="nhiemVuDuocGiao.abstractt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_1.opp.fan.Fan" />
+    <configuration name="nhiemVuDuocGiao.mune.Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nhiemVuDuocGiao.mune.Menu" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_1.opp.fan.*" />
+          <option name="PATTERN" value="nhiemVuDuocGiao.mune.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nhiemVuDuocGiao.menu.Menu" />
+    <configuration name="week_2.abstractAndInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_2.abstractAndInterface.Main" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nhiemVuDuocGiao.menu.*" />
+          <option name="PATTERN" value="week_2.abstractAndInterface.animalAndInterfacee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_1.opp.StopWatch" />
+    <configuration name="week_2.abstractAndInterface.animalAndInterface.AbstractAndInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_2.abstractAndInterface.animalAndInterface.AbstractAndInterfaceTest" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_1.opp.*" />
+          <option name="PATTERN" value="week_2.abstractAndInterface.animalAndInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_1.accessModefier.student.TestStudent" />
+    <configuration name="week_2.abstractAndInterface.animalEdible.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_2.abstractAndInterface.animalEdible.Main" />
       <module name="Week_1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_1.accessModefier.student.*" />
+          <option name="PATTERN" value="week_2.abstractAndInterface.animalEdible.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.Fan" />
-        <item itemvalue="Application.Chunhat" />
-        <item itemvalue="Application.TestStudent" />
-        <item itemvalue="Application.Menu" />
+        <item itemvalue="Application.week_2.abstractAndInterface.animalAndInterface.AbstractAndInterfaceTest" />
+        <item itemvalue="Application.week_2.abstractAndInterface.Main" />
+        <item itemvalue="Application.week_2.abstractAndInterface.animalEdible.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.nhiemVuDuocGiao.mune.Menu" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +335,11 @@
       <workItem from="1653548514493" duration="9785000" />
       <workItem from="1653582674126" duration="2071000" />
       <workItem from="1653614639377" duration="6204000" />
-      <workItem from="1653632213279" duration="12287000" />
+      <workItem from="1653632213279" duration="12821000" />
+      <workItem from="1653838656772" duration="5249000" />
+      <workItem from="1653868595520" duration="810000" />
+      <workItem from="1653872601635" duration="2354000" />
+      <workItem from="1653890890979" duration="7231000" />
     </task>
     <servers />
   </component>
